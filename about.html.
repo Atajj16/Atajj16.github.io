@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>My Portafolio Alejandro Tejada</title>
+    </head>
+    <body>
+
+    <h1>Hello Everyone and Welcome to my WebPage!</h1>
+        
+    <img src="csc106_banner.jpg">
+        
+        <table>
+            
+            <tr>   <td>
+    
+    <h2>Who I am?</h2>   
+                
+                <img src="csc%20buttoms%201.png">          <img src="csc%20buttoms%202.png">         <img src="csc%20buttoms%203.png">         <img src="csc%20buttoms%204.png">
+    
+    <p> </p>
+    
+    
+    
+    </body>
+</html>
